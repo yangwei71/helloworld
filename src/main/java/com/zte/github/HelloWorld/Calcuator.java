@@ -5,6 +5,7 @@ package com.zte.github.HelloWorld;
  */
 public class Calcuator {
     public double add(double n1, double n2) {
-        return n1 + n2;
+		double sum = n1 + n2;
+        return sum;
     }
 }
