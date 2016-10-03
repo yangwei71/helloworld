@@ -1,6 +1,6 @@
 # helloworld
 
-build:passing
+build passing
 
 hello world!
 test!
