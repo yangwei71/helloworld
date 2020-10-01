@@ -5,6 +5,6 @@ package com.zte.github.HelloWorld;
  */
 public class HelloWorld {
     public String sayHello(){
-        return "hello";
+        return "hello World!";
     }
 }
